@@ -1,2 +1,4 @@
-# grupo_de_genero_utn
-grupo_de_genero_utn
+# Grupo de Genero UTN FRC
+
+Aquí encontrarás documentación del grupo!
+Es tu lugar.
